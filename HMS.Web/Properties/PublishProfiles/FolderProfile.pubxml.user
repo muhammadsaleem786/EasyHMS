@@ -1,0 +1,447 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Mursaleen\Desktop\HMS_Release\API</_PublishTargetUrl>
+    <History>True|2023-02-26T11:02:50.2355785Z;True|2023-01-21T16:10:20.0393867+05:00;True|2022-12-18T14:50:24.5732275+05:00;True|2022-11-19T22:18:12.9204960+05:00;True|2022-11-14T21:50:23.9144476+05:00;True|2022-11-08T23:56:45.0517586+05:00;True|2022-09-29T19:33:24.9241645+05:00;True|2022-09-24T10:17:53.8372994+05:00;True|2022-09-13T20:29:57.1347205+05:00;True|2022-09-09T21:24:08.2615232+05:00;True|2022-09-03T15:27:00.5712217+05:00;True|2022-08-14T00:21:09.6926384+05:00;True|2022-08-08T15:22:52.1713863+05:00;True|2022-08-04T00:08:57.6972636+05:00;True|2022-07-30T18:14:39.5225089+05:00;True|2022-06-13T21:58:40.3058492+05:00;True|2022-06-13T21:58:07.5401895+05:00;True|2022-06-13T21:56:29.4638137+05:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>01/01/2022 03:14:24</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/web.config">
+      <publishTime>01/01/2022 03:14:24</publishTime>
+    </File>
+    <File Include="Areas/FileServer/Views/web.config">
+      <publishTime>01/01/2022 03:14:24</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/HelpPage.css">
+      <publishTime>01/01/2022 03:14:24</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/Api.cshtml">
+      <publishTime>01/01/2022 03:14:24</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/ApiGroup.cshtml">
+      <publishTime>01/01/2022 03:14:24</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/CollectionModelDescription.cshtml">
+      <publishTime>01/01/2022 03:14:24</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/ComplexTypeModelDescription.cshtml">
+      <publishTime>01/01/2022 03:14:24</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/DictionaryModelDescription.cshtml">
+      <publishTime>01/01/2022 03:14:24</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/EnumTypeModelDescription.cshtml">
+      <publishTime>01/01/2022 03:14:24</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/HelpPageApiModel.cshtml">
+      <publishTime>01/01/2022 03:14:24</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/ImageSample.cshtml">
+      <publishTime>01/01/2022 03:14:24</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/InvalidSample.cshtml">
+      <publishTime>01/01/2022 03:14:24</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/KeyValuePairModelDescription.cshtml">
+      <publishTime>01/01/2022 03:14:24</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/ModelDescriptionLink.cshtml">
+      <publishTime>01/01/2022 03:14:24</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/Parameters.cshtml">
+      <publishTime>01/01/2022 03:14:24</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/Samples.cshtml">
+      <publishTime>01/01/2022 03:14:24</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/SimpleTypeModelDescription.cshtml">
+      <publishTime>01/01/2022 03:14:24</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/TextSample.cshtml">
+      <publishTime>01/01/2022 03:14:24</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/Index.cshtml">
+      <publishTime>01/01/2022 03:14:24</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/ResourceModel.cshtml">
+      <publishTime>01/01/2022 03:14:24</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Shared/_Layout.cshtml">
+      <publishTime>01/01/2022 03:14:24</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Web.config">
+      <publishTime>01/01/2022 03:14:24</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/_ViewStart.cshtml">
+      <publishTime>01/01/2022 03:14:24</publishTime>
+    </File>
+    <File Include="assets/css/main.css">
+      <publishTime>01/01/2022 03:14:26</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>01/01/2022 03:14:28</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.pdb">
+      <publishTime>01/01/2022 03:14:28</publishTime>
+    </File>
+    <File Include="bin/AWSSDK.Core.dll">
+      <publishTime>01/01/2022 03:14:26</publishTime>
+    </File>
+    <File Include="bin/AWSSDK.S3.dll">
+      <publishTime>01/01/2022 03:14:26</publishTime>
+    </File>
+    <File Include="bin/BouncyCastle.Crypto.dll">
+      <publishTime>01/01/2022 03:14:34</publishTime>
+    </File>
+    <File Include="bin/de/System.Spatial.resources.dll">
+      <publishTime>01/01/2022 03:14:50</publishTime>
+    </File>
+    <File Include="bin/EFCache.dll">
+      <publishTime>01/01/2022 03:14:30</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>01/01/2022 03:14:30</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>01/01/2022 03:14:30</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServerCompact.dll">
+      <publishTime>01/01/2022 03:14:30</publishTime>
+    </File>
+    <File Include="bin/es/System.Spatial.resources.dll">
+      <publishTime>01/01/2022 03:14:50</publishTime>
+    </File>
+    <File Include="bin/fr/System.Spatial.resources.dll">
+      <publishTime>01/01/2022 03:14:50</publishTime>
+    </File>
+    <File Include="bin/HMS.Entities.dll">
+      <publishTime>12/18/2022 14:50:17</publishTime>
+    </File>
+    <File Include="bin/HMS.Entities.dll.config">
+      <publishTime>01/01/2022 03:13:10</publishTime>
+    </File>
+    <File Include="bin/HMS.Entities.pdb">
+      <publishTime>12/18/2022 14:50:17</publishTime>
+    </File>
+    <File Include="bin/HMS.Repository.dll">
+      <publishTime>02/25/2023 09:58:44</publishTime>
+    </File>
+    <File Include="bin/HMS.Repository.dll.config">
+      <publishTime>01/01/2022 03:13:12</publishTime>
+    </File>
+    <File Include="bin/HMS.Repository.pdb">
+      <publishTime>02/25/2023 09:58:44</publishTime>
+    </File>
+    <File Include="bin/HMS.Service.dll">
+      <publishTime>02/26/2023 16:02:42</publishTime>
+    </File>
+    <File Include="bin/HMS.Service.dll.config">
+      <publishTime>01/01/2022 03:13:12</publishTime>
+    </File>
+    <File Include="bin/HMS.Service.pdb">
+      <publishTime>02/26/2023 16:02:42</publishTime>
+    </File>
+    <File Include="bin/HMS.Web.API.dll">
+      <publishTime>02/26/2023 16:02:46</publishTime>
+    </File>
+    <File Include="bin/HMS.Web.API.pdb">
+      <publishTime>02/26/2023 16:02:46</publishTime>
+    </File>
+    <File Include="bin/HtmlAgilityPack.dll">
+      <publishTime>01/01/2022 03:14:30</publishTime>
+    </File>
+    <File Include="bin/HtmlAgilityPack.pdb">
+      <publishTime>01/01/2022 03:14:30</publishTime>
+    </File>
+    <File Include="bin/ICSharpCode.SharpZipLib.dll">
+      <publishTime>01/01/2022 03:14:36</publishTime>
+    </File>
+    <File Include="bin/ICSharpCode.SharpZipLib.pdb">
+      <publishTime>01/01/2022 03:14:36</publishTime>
+    </File>
+    <File Include="bin/it/System.Spatial.resources.dll">
+      <publishTime>01/01/2022 03:14:50</publishTime>
+    </File>
+    <File Include="bin/itextsharp.dll">
+      <publishTime>01/01/2022 03:14:26</publishTime>
+    </File>
+    <File Include="bin/itextsharp.pdfa.dll">
+      <publishTime>01/01/2022 03:14:26</publishTime>
+    </File>
+    <File Include="bin/itextsharp.xmlworker.dll">
+      <publishTime>01/01/2022 03:14:26</publishTime>
+    </File>
+    <File Include="bin/itextsharp.xtra.dll">
+      <publishTime>01/01/2022 03:14:26</publishTime>
+    </File>
+    <File Include="bin/ja/System.Spatial.resources.dll">
+      <publishTime>01/01/2022 03:14:50</publishTime>
+    </File>
+    <File Include="bin/ko/System.Spatial.resources.dll">
+      <publishTime>01/01/2022 03:14:50</publishTime>
+    </File>
+    <File Include="bin/LinqKit.dll">
+      <publishTime>01/01/2022 03:14:30</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>01/01/2022 03:14:50</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.SignalR.Core.dll">
+      <publishTime>01/14/2022 07:40:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.SignalR.Core.pdb">
+      <publishTime>01/14/2022 07:32:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.SignalR.SystemWeb.dll">
+      <publishTime>01/14/2022 07:40:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.SignalR.SystemWeb.pdb">
+      <publishTime>01/14/2022 07:34:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Logging.dll">
+      <publishTime>01/01/2022 03:14:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>01/01/2022 03:14:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>01/13/2014 21:11:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>01/13/2014 21:11:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>01/13/2014 21:11:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.ServiceLocation.dll">
+      <publishTime>01/01/2022 03:14:28</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.ServiceLocation.pdb">
+      <publishTime>01/01/2022 03:14:28</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.Configuration.dll">
+      <publishTime>01/01/2022 03:14:50</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.dll">
+      <publishTime>01/01/2022 03:14:50</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.Mvc.dll">
+      <publishTime>01/01/2022 03:14:50</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.RegistrationByConvention.dll">
+      <publishTime>01/01/2022 03:14:50</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.WebApi.dll">
+      <publishTime>01/01/2022 03:14:50</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SqlServer.Types.dll">
+      <publishTime>01/01/2022 03:14:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>01/01/2022 03:14:34</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>01/01/2022 03:14:34</publishTime>
+    </File>
+    <File Include="bin/NPOI.dll">
+      <publishTime>01/01/2022 03:14:34</publishTime>
+    </File>
+    <File Include="bin/NPOI.OOXML.dll">
+      <publishTime>01/01/2022 03:14:34</publishTime>
+    </File>
+    <File Include="bin/NPOI.OpenXml4Net.dll">
+      <publishTime>01/01/2022 03:14:34</publishTime>
+    </File>
+    <File Include="bin/NPOI.OpenXmlFormats.dll">
+      <publishTime>01/01/2022 03:14:34</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>11/13/2012 17:19:34</publishTime>
+    </File>
+    <File Include="bin/QRCoder.dll">
+      <publishTime>01/01/2022 03:14:26</publishTime>
+    </File>
+    <File Include="bin/Repository.Pattern.dll">
+      <publishTime>06/13/2022 21:53:00</publishTime>
+    </File>
+    <File Include="bin/Repository.Pattern.dll.config">
+      <publishTime>01/01/2022 03:13:10</publishTime>
+    </File>
+    <File Include="bin/Repository.Pattern.Ef6.dll">
+      <publishTime>12/18/2022 14:50:14</publishTime>
+    </File>
+    <File Include="bin/Repository.Pattern.Ef6.dll.config">
+      <publishTime>01/01/2022 03:13:10</publishTime>
+    </File>
+    <File Include="bin/Repository.Pattern.Ef6.pdb">
+      <publishTime>12/18/2022 14:50:14</publishTime>
+    </File>
+    <File Include="bin/Repository.Pattern.pdb">
+      <publishTime>06/13/2022 21:53:00</publishTime>
+    </File>
+    <File Include="bin/ru/System.Spatial.resources.dll">
+      <publishTime>01/01/2022 03:14:50</publishTime>
+    </File>
+    <File Include="bin/Service.Pattern.dll">
+      <publishTime>02/26/2023 16:02:40</publishTime>
+    </File>
+    <File Include="bin/Service.Pattern.dll.config">
+      <publishTime>01/01/2022 03:13:10</publishTime>
+    </File>
+    <File Include="bin/Service.Pattern.pdb">
+      <publishTime>02/26/2023 16:02:40</publishTime>
+    </File>
+    <File Include="bin/SqlServerTypes/x64/msvcr120.dll">
+      <publishTime>01/01/2022 03:14:26</publishTime>
+    </File>
+    <File Include="bin/SqlServerTypes/x64/SqlServerSpatial140.dll">
+      <publishTime>01/01/2022 03:14:26</publishTime>
+    </File>
+    <File Include="bin/SqlServerTypes/x86/msvcr120.dll">
+      <publishTime>01/01/2022 03:14:26</publishTime>
+    </File>
+    <File Include="bin/SqlServerTypes/x86/SqlServerSpatial140.dll">
+      <publishTime>01/01/2022 03:14:26</publishTime>
+    </File>
+    <File Include="bin/System.Data.Entity.Repository.dll">
+      <publishTime>01/01/2022 03:14:50</publishTime>
+    </File>
+    <File Include="bin/System.Data.SqlServerCe.dll">
+      <publishTime>01/01/2022 03:14:34</publishTime>
+    </File>
+    <File Include="bin/System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>01/01/2022 03:14:50</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>01/01/2022 03:14:32</publishTime>
+    </File>
+    <File Include="bin/System.Spatial.dll">
+      <publishTime>01/01/2022 03:14:50</publishTime>
+    </File>
+    <File Include="bin/System.Web.Cors.dll">
+      <publishTime>01/01/2022 03:14:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>01/01/2022 03:14:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Cors.dll">
+      <publishTime>01/01/2022 03:14:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>01/01/2022 03:14:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>01/01/2022 03:14:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>01/01/2022 03:14:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>01/01/2022 03:14:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>01/01/2022 03:14:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>01/01/2022 03:14:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>01/01/2022 03:14:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>01/01/2022 03:14:32</publishTime>
+    </File>
+    <File Include="bin/WebActivatorEx.dll">
+      <publishTime>01/01/2022 03:14:50</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>01/01/2022 03:14:50</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Spatial.resources.dll">
+      <publishTime>01/01/2022 03:14:50</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/System.Spatial.resources.dll">
+      <publishTime>01/01/2022 03:14:50</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>01/01/2022 03:14:28</publishTime>
+    </File>
+    <File Include="Files/AttachmentFiles/Employe.xlsx">
+      <publishTime>03/05/2022 19:13:40</publishTime>
+    </File>
+    <File Include="Files/AttachmentFiles/TimeAttendance.xlsx">
+      <publishTime>03/05/2022 19:13:40</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>01/01/2022 03:14:26</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>11/02/2022 10:39:59</publishTime>
+    </File>
+    <File Include="Scripts/jquery.signalR-2.4.3.js">
+      <publishTime>09/03/2022 10:26:10</publishTime>
+    </File>
+    <File Include="Scripts/jquery.signalR-2.4.3.min.js">
+      <publishTime>09/03/2022 10:26:02</publishTime>
+    </File>
+    <File Include="SqlServerTypes/readme.htm">
+      <publishTime>03/05/2022 19:14:03</publishTime>
+    </File>
+    <File Include="SqlServerTypes/x64/msvcr120.dll">
+      <publishTime>01/01/2022 03:14:26</publishTime>
+    </File>
+    <File Include="SqlServerTypes/x64/SqlServerSpatial140.dll">
+      <publishTime>01/01/2022 03:14:26</publishTime>
+    </File>
+    <File Include="SqlServerTypes/x86/msvcr120.dll">
+      <publishTime>01/01/2022 03:14:26</publishTime>
+    </File>
+    <File Include="SqlServerTypes/x86/SqlServerSpatial140.dll">
+      <publishTime>01/01/2022 03:14:26</publishTime>
+    </File>
+    <File Include="Templates/ApplicationUserResetPassEmail.txt">
+      <publishTime>03/05/2022 19:14:03</publishTime>
+    </File>
+    <File Include="Templates/changepassword.txt">
+      <publishTime>03/05/2022 19:14:03</publishTime>
+    </File>
+    <File Include="Templates/EmailConfirm.txt">
+      <publishTime>03/05/2022 19:14:03</publishTime>
+    </File>
+    <File Include="Templates/Prescription.txt">
+      <publishTime>03/20/2022 01:01:25</publishTime>
+    </File>
+    <File Include="Templates/WelcomeEmail.txt">
+      <publishTime>03/05/2022 19:14:03</publishTime>
+    </File>
+    <File Include="Views/Home/EasyPaisaPayment.cshtml">
+      <publishTime>03/05/2022 19:14:03</publishTime>
+    </File>
+    <File Include="Views/Home/Home.cshtml">
+      <publishTime>03/05/2022 19:14:03</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>03/10/2022 22:44:46</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>03/05/2022 19:14:04</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>03/05/2022 19:14:04</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>03/05/2022 19:14:03</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>03/05/2022 19:14:03</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/21/2023 16:10:19</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

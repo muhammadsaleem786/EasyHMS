@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[Service.Pattern.csproj]
+SCC_Aux_Path = "\\192.168.10.53\vss\Erpisto Book"
+SCC_Project_Name = "$/Erpisto Cloud/ERPISTO.root/ERPISTO/Frameworks/Service.Pattern", FRBEAAAA

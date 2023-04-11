@@ -1,0 +1,39 @@
+C:\Working Projects\SmartPeopleQlik\Frameworks\Service.Pattern\bin\Release\Service.Pattern.dll.config
+C:\Working Projects\SmartPeopleQlik\Frameworks\Service.Pattern\bin\Release\Service.Pattern.dll
+C:\Working Projects\SmartPeopleQlik\Frameworks\Service.Pattern\bin\Release\Service.Pattern.pdb
+C:\Working Projects\SmartPeopleQlik\Frameworks\Service.Pattern\bin\Release\Repository.Pattern.dll
+C:\Working Projects\SmartPeopleQlik\Frameworks\Service.Pattern\bin\Release\System.Net.Http.dll
+C:\Working Projects\SmartPeopleQlik\Frameworks\Service.Pattern\bin\Release\Repository.Pattern.pdb
+C:\Working Projects\SmartPeopleQlik\Frameworks\Service.Pattern\obj\Release\Service.Pattern.csprojResolveAssemblyReference.cache
+C:\Working Projects\SmartPeopleQlik\Frameworks\Service.Pattern\obj\Release\Service.Pattern.dll
+C:\Working Projects\SmartPeopleQlik\Frameworks\Service.Pattern\obj\Release\Service.Pattern.pdb
+E:\ERP\Frameworks\Service.Pattern\bin\Release\Service.Pattern.dll.config
+E:\ERP\Frameworks\Service.Pattern\bin\Release\Service.Pattern.dll
+E:\ERP\Frameworks\Service.Pattern\bin\Release\Service.Pattern.pdb
+E:\ERP\Frameworks\Service.Pattern\bin\Release\Repository.Pattern.dll
+E:\ERP\Frameworks\Service.Pattern\bin\Release\System.Net.Http.dll
+E:\ERP\Frameworks\Service.Pattern\bin\Release\Repository.Pattern.pdb
+E:\ERP\Frameworks\Service.Pattern\obj\Release\Service.Pattern.csprojResolveAssemblyReference.cache
+E:\ERP\Frameworks\Service.Pattern\obj\Release\Service.Pattern.dll
+E:\ERP\Frameworks\Service.Pattern\obj\Release\Service.Pattern.pdb
+D:\Working Project\ERP\Frameworks\Service.Pattern\bin\Release\Service.Pattern.dll.config
+D:\Working Project\ERP\Frameworks\Service.Pattern\bin\Release\Service.Pattern.dll
+D:\Working Project\ERP\Frameworks\Service.Pattern\bin\Release\Service.Pattern.pdb
+D:\Working Project\ERP\Frameworks\Service.Pattern\bin\Release\Repository.Pattern.dll
+D:\Working Project\ERP\Frameworks\Service.Pattern\bin\Release\System.Net.Http.dll
+D:\Working Project\ERP\Frameworks\Service.Pattern\bin\Release\Repository.Pattern.pdb
+D:\Working Project\ERP\Frameworks\Service.Pattern\obj\Release\Service.Pattern.csprojResolveAssemblyReference.cache
+D:\Working Project\ERP\Frameworks\Service.Pattern\obj\Release\Service.Pattern.dll
+D:\Working Project\ERP\Frameworks\Service.Pattern\obj\Release\Service.Pattern.pdb
+E:\CloudEMR\Frameworks\Service.Pattern\bin\Release\Service.Pattern.dll.config
+E:\CloudEMR\Frameworks\Service.Pattern\bin\Release\Service.Pattern.dll
+E:\CloudEMR\Frameworks\Service.Pattern\bin\Release\Service.Pattern.pdb
+E:\CloudEMR\Frameworks\Service.Pattern\bin\Release\Repository.Pattern.dll
+E:\CloudEMR\Frameworks\Service.Pattern\bin\Release\System.Net.Http.dll
+E:\CloudEMR\Frameworks\Service.Pattern\bin\Release\Repository.Pattern.pdb
+E:\CloudEMR\Frameworks\Service.Pattern\bin\Release\Repository.Pattern.dll.config
+E:\CloudEMR\Frameworks\Service.Pattern\obj\Release\Service.Pattern.csproj.AssemblyReference.cache
+E:\CloudEMR\Frameworks\Service.Pattern\obj\Release\Service.Pattern.csproj.CoreCompileInputs.cache
+E:\CloudEMR\Frameworks\Service.Pattern\obj\Release\Service.Pattern.csproj.CopyComplete
+E:\CloudEMR\Frameworks\Service.Pattern\obj\Release\Service.Pattern.dll
+E:\CloudEMR\Frameworks\Service.Pattern\obj\Release\Service.Pattern.pdb

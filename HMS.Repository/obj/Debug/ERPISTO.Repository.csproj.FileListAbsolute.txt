@@ -1,0 +1,84 @@
+C:\Working Projects\SmartPeopleQlik\ERPISTO.Repository\obj\Debug\ERPISTO.Repository.csprojResolveAssemblyReference.cache
+C:\Working Projects\SmartPeopleQlik\ERPISTO.Repository\bin\Debug\ERPISTO.Repository.dll.config
+C:\Working Projects\SmartPeopleQlik\ERPISTO.Repository\bin\Debug\ERPISTO.Repository.dll
+C:\Working Projects\SmartPeopleQlik\ERPISTO.Repository\bin\Debug\ERPISTO.Repository.pdb
+C:\Working Projects\SmartPeopleQlik\ERPISTO.Repository\bin\Debug\EntityFramework.dll
+C:\Working Projects\SmartPeopleQlik\ERPISTO.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Working Projects\SmartPeopleQlik\ERPISTO.Repository\bin\Debug\ERPISTO.Entities.dll
+C:\Working Projects\SmartPeopleQlik\ERPISTO.Repository\bin\Debug\LinqKit.dll
+C:\Working Projects\SmartPeopleQlik\ERPISTO.Repository\bin\Debug\Repository.Pattern.dll
+C:\Working Projects\SmartPeopleQlik\ERPISTO.Repository\bin\Debug\Repository.Pattern.Ef6.dll
+C:\Working Projects\SmartPeopleQlik\ERPISTO.Repository\bin\Debug\EFCache.dll
+C:\Working Projects\SmartPeopleQlik\ERPISTO.Repository\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Working Projects\SmartPeopleQlik\ERPISTO.Repository\bin\Debug\ERPISTO.Entities.pdb
+C:\Working Projects\SmartPeopleQlik\ERPISTO.Repository\bin\Debug\Repository.Pattern.Ef6.pdb
+C:\Working Projects\SmartPeopleQlik\ERPISTO.Repository\bin\Debug\Repository.Pattern.pdb
+C:\Working Projects\SmartPeopleQlik\ERPISTO.Repository\bin\Debug\EntityFramework.xml
+C:\Working Projects\SmartPeopleQlik\ERPISTO.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Working Projects\SmartPeopleQlik\ERPISTO.Repository\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Working Projects\SmartPeopleQlik\ERPISTO.Repository\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Working Projects\SmartPeopleQlik\ERPISTO.Repository\obj\Debug\ERPISTO.Repository.dll
+C:\Working Projects\SmartPeopleQlik\ERPISTO.Repository\obj\Debug\ERPISTO.Repository.pdb
+E:\ERP\ERPISTO.Repository\bin\Debug\ERPISTO.Repository.dll.config
+E:\ERP\ERPISTO.Repository\bin\Debug\ERPISTO.Repository.dll
+E:\ERP\ERPISTO.Repository\bin\Debug\ERPISTO.Repository.pdb
+E:\ERP\ERPISTO.Repository\bin\Debug\EntityFramework.dll
+E:\ERP\ERPISTO.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\ERP\ERPISTO.Repository\bin\Debug\ERPISTO.Entities.dll
+E:\ERP\ERPISTO.Repository\bin\Debug\LinqKit.dll
+E:\ERP\ERPISTO.Repository\bin\Debug\Repository.Pattern.dll
+E:\ERP\ERPISTO.Repository\bin\Debug\Repository.Pattern.Ef6.dll
+E:\ERP\ERPISTO.Repository\bin\Debug\EFCache.dll
+E:\ERP\ERPISTO.Repository\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\ERP\ERPISTO.Repository\bin\Debug\ERPISTO.Entities.pdb
+E:\ERP\ERPISTO.Repository\bin\Debug\Repository.Pattern.Ef6.pdb
+E:\ERP\ERPISTO.Repository\bin\Debug\Repository.Pattern.pdb
+E:\ERP\ERPISTO.Repository\bin\Debug\EntityFramework.xml
+E:\ERP\ERPISTO.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\ERP\ERPISTO.Repository\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\ERP\ERPISTO.Repository\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\ERP\ERPISTO.Repository\obj\Debug\ERPISTO.Repository.csprojResolveAssemblyReference.cache
+E:\ERP\ERPISTO.Repository\obj\Debug\ERPISTO.Repository.dll
+E:\ERP\ERPISTO.Repository\obj\Debug\ERPISTO.Repository.pdb
+D:\Working Project\ERP\ERPISTO.Repository\bin\Debug\ERPISTO.Repository.dll.config
+D:\Working Project\ERP\ERPISTO.Repository\bin\Debug\ERPISTO.Repository.dll
+D:\Working Project\ERP\ERPISTO.Repository\bin\Debug\ERPISTO.Repository.pdb
+D:\Working Project\ERP\ERPISTO.Repository\bin\Debug\EntityFramework.dll
+D:\Working Project\ERP\ERPISTO.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Working Project\ERP\ERPISTO.Repository\bin\Debug\ERPISTO.Entities.dll
+D:\Working Project\ERP\ERPISTO.Repository\bin\Debug\LinqKit.dll
+D:\Working Project\ERP\ERPISTO.Repository\bin\Debug\Repository.Pattern.dll
+D:\Working Project\ERP\ERPISTO.Repository\bin\Debug\Repository.Pattern.Ef6.dll
+D:\Working Project\ERP\ERPISTO.Repository\bin\Debug\EFCache.dll
+D:\Working Project\ERP\ERPISTO.Repository\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Working Project\ERP\ERPISTO.Repository\bin\Debug\ERPISTO.Entities.pdb
+D:\Working Project\ERP\ERPISTO.Repository\bin\Debug\Repository.Pattern.Ef6.pdb
+D:\Working Project\ERP\ERPISTO.Repository\bin\Debug\Repository.Pattern.pdb
+D:\Working Project\ERP\ERPISTO.Repository\bin\Debug\EntityFramework.xml
+D:\Working Project\ERP\ERPISTO.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Working Project\ERP\ERPISTO.Repository\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Working Project\ERP\ERPISTO.Repository\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Working Project\ERP\ERPISTO.Repository\obj\Debug\ERPISTO.Repository.csprojResolveAssemblyReference.cache
+D:\Working Project\ERP\ERPISTO.Repository\obj\Debug\ERPISTO.Repository.dll
+D:\Working Project\ERP\ERPISTO.Repository\obj\Debug\ERPISTO.Repository.pdb
+C:\Users\MuhammadSaleem\Desktop\test\ERP\ERPISTO.Repository\bin\Debug\ERPISTO.Repository.dll.config
+C:\Users\MuhammadSaleem\Desktop\test\ERP\ERPISTO.Repository\bin\Debug\ERPISTO.Repository.dll
+C:\Users\MuhammadSaleem\Desktop\test\ERP\ERPISTO.Repository\bin\Debug\ERPISTO.Repository.pdb
+C:\Users\MuhammadSaleem\Desktop\test\ERP\ERPISTO.Repository\bin\Debug\EntityFramework.dll
+C:\Users\MuhammadSaleem\Desktop\test\ERP\ERPISTO.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MuhammadSaleem\Desktop\test\ERP\ERPISTO.Repository\bin\Debug\ERPISTO.Entities.dll
+C:\Users\MuhammadSaleem\Desktop\test\ERP\ERPISTO.Repository\bin\Debug\LinqKit.dll
+C:\Users\MuhammadSaleem\Desktop\test\ERP\ERPISTO.Repository\bin\Debug\Repository.Pattern.dll
+C:\Users\MuhammadSaleem\Desktop\test\ERP\ERPISTO.Repository\bin\Debug\Repository.Pattern.Ef6.dll
+C:\Users\MuhammadSaleem\Desktop\test\ERP\ERPISTO.Repository\bin\Debug\EFCache.dll
+C:\Users\MuhammadSaleem\Desktop\test\ERP\ERPISTO.Repository\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\MuhammadSaleem\Desktop\test\ERP\ERPISTO.Repository\bin\Debug\ERPISTO.Entities.pdb
+C:\Users\MuhammadSaleem\Desktop\test\ERP\ERPISTO.Repository\bin\Debug\Repository.Pattern.Ef6.pdb
+C:\Users\MuhammadSaleem\Desktop\test\ERP\ERPISTO.Repository\bin\Debug\Repository.Pattern.pdb
+C:\Users\MuhammadSaleem\Desktop\test\ERP\ERPISTO.Repository\bin\Debug\EntityFramework.xml
+C:\Users\MuhammadSaleem\Desktop\test\ERP\ERPISTO.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MuhammadSaleem\Desktop\test\ERP\ERPISTO.Repository\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\MuhammadSaleem\Desktop\test\ERP\ERPISTO.Repository\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\MuhammadSaleem\Desktop\test\ERP\ERPISTO.Repository\obj\Debug\ERPISTO.Repository.csprojResolveAssemblyReference.cache
+C:\Users\MuhammadSaleem\Desktop\test\ERP\ERPISTO.Repository\obj\Debug\ERPISTO.Repository.dll
+C:\Users\MuhammadSaleem\Desktop\test\ERP\ERPISTO.Repository\obj\Debug\ERPISTO.Repository.pdb

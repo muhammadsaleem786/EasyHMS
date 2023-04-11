@@ -1,0 +1,24 @@
+C:\Working Projects\SmartPeopleQlik\Frameworks\Repository.Pattern\bin\Release\Repository.Pattern.dll.config
+C:\Working Projects\SmartPeopleQlik\Frameworks\Repository.Pattern\bin\Release\Repository.Pattern.dll
+C:\Working Projects\SmartPeopleQlik\Frameworks\Repository.Pattern\bin\Release\Repository.Pattern.pdb
+C:\Working Projects\SmartPeopleQlik\Frameworks\Repository.Pattern\obj\Release\Repository.Pattern.dll
+C:\Working Projects\SmartPeopleQlik\Frameworks\Repository.Pattern\obj\Release\Repository.Pattern.pdb
+C:\Working Projects\SmartPeopleQlik\Frameworks\Repository.Pattern\obj\Release\Repository.Pattern.csprojResolveAssemblyReference.cache
+E:\ERP\Frameworks\Repository.Pattern\bin\Release\Repository.Pattern.dll.config
+E:\ERP\Frameworks\Repository.Pattern\bin\Release\Repository.Pattern.dll
+E:\ERP\Frameworks\Repository.Pattern\bin\Release\Repository.Pattern.pdb
+E:\ERP\Frameworks\Repository.Pattern\obj\Release\Repository.Pattern.csprojResolveAssemblyReference.cache
+E:\ERP\Frameworks\Repository.Pattern\obj\Release\Repository.Pattern.dll
+E:\ERP\Frameworks\Repository.Pattern\obj\Release\Repository.Pattern.pdb
+D:\Working Project\ERP\Frameworks\Repository.Pattern\bin\Release\Repository.Pattern.dll.config
+D:\Working Project\ERP\Frameworks\Repository.Pattern\bin\Release\Repository.Pattern.dll
+D:\Working Project\ERP\Frameworks\Repository.Pattern\bin\Release\Repository.Pattern.pdb
+D:\Working Project\ERP\Frameworks\Repository.Pattern\obj\Release\Repository.Pattern.csprojResolveAssemblyReference.cache
+D:\Working Project\ERP\Frameworks\Repository.Pattern\obj\Release\Repository.Pattern.dll
+D:\Working Project\ERP\Frameworks\Repository.Pattern\obj\Release\Repository.Pattern.pdb
+E:\CloudEMR\Frameworks\Repository.Pattern\bin\Release\Repository.Pattern.dll.config
+E:\CloudEMR\Frameworks\Repository.Pattern\bin\Release\Repository.Pattern.dll
+E:\CloudEMR\Frameworks\Repository.Pattern\bin\Release\Repository.Pattern.pdb
+E:\CloudEMR\Frameworks\Repository.Pattern\obj\Release\Repository.Pattern.csproj.CoreCompileInputs.cache
+E:\CloudEMR\Frameworks\Repository.Pattern\obj\Release\Repository.Pattern.dll
+E:\CloudEMR\Frameworks\Repository.Pattern\obj\Release\Repository.Pattern.pdb

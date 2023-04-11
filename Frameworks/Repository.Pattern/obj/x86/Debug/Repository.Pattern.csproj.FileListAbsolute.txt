@@ -1,0 +1,53 @@
+C:\Working Projects\SmartPeopleQlik\Frameworks\Repository.Pattern\bin\x86\Debug\Repository.Pattern.dll.config
+C:\Working Projects\SmartPeopleQlik\Frameworks\Repository.Pattern\bin\x86\Debug\Repository.Pattern.dll
+C:\Working Projects\SmartPeopleQlik\Frameworks\Repository.Pattern\bin\x86\Debug\Repository.Pattern.pdb
+C:\Working Projects\SmartPeopleQlik\Frameworks\Repository.Pattern\obj\x86\Debug\Repository.Pattern.csprojResolveAssemblyReference.cache
+C:\Working Projects\SmartPeopleQlik\Frameworks\Repository.Pattern\obj\x86\Debug\Repository.Pattern.dll
+C:\Working Projects\SmartPeopleQlik\Frameworks\Repository.Pattern\obj\x86\Debug\Repository.Pattern.pdb
+C:\Users\MuhammadSaleem\Desktop\test\HMS\Frameworks\Repository.Pattern\bin\x86\Debug\Repository.Pattern.dll.config
+C:\Users\MuhammadSaleem\Desktop\test\HMS\Frameworks\Repository.Pattern\bin\x86\Debug\Repository.Pattern.dll
+C:\Users\MuhammadSaleem\Desktop\test\HMS\Frameworks\Repository.Pattern\bin\x86\Debug\Repository.Pattern.pdb
+C:\Users\MuhammadSaleem\Desktop\test\HMS\Frameworks\Repository.Pattern\obj\x86\Debug\Repository.Pattern.dll
+C:\Users\MuhammadSaleem\Desktop\test\HMS\Frameworks\Repository.Pattern\obj\x86\Debug\Repository.Pattern.pdb
+C:\Users\Mohsin\Desktop\HMS-16-NOV-2021\HMS\Frameworks\Repository.Pattern\bin\x86\Debug\Repository.Pattern.dll.config
+C:\Users\Mohsin\Desktop\HMS-16-NOV-2021\HMS\Frameworks\Repository.Pattern\bin\x86\Debug\Repository.Pattern.dll
+C:\Users\Mohsin\Desktop\HMS-16-NOV-2021\HMS\Frameworks\Repository.Pattern\bin\x86\Debug\Repository.Pattern.pdb
+C:\Users\Mohsin\Desktop\HMS-16-NOV-2021\HMS\Frameworks\Repository.Pattern\obj\x86\Debug\Repository.Pattern.csprojResolveAssemblyReference.cache
+C:\Users\Mohsin\Desktop\HMS-16-NOV-2021\HMS\Frameworks\Repository.Pattern\obj\x86\Debug\Repository.Pattern.dll
+C:\Users\Mohsin\Desktop\HMS-16-NOV-2021\HMS\Frameworks\Repository.Pattern\obj\x86\Debug\Repository.Pattern.pdb
+C:\Users\MuhammadSaleem\Desktop\test\HMS\HMS\Frameworks\Repository.Pattern\bin\x86\Debug\Repository.Pattern.dll.config
+C:\Users\MuhammadSaleem\Desktop\test\HMS\HMS\Frameworks\Repository.Pattern\bin\x86\Debug\Repository.Pattern.dll
+C:\Users\MuhammadSaleem\Desktop\test\HMS\HMS\Frameworks\Repository.Pattern\bin\x86\Debug\Repository.Pattern.pdb
+C:\Users\MuhammadSaleem\Desktop\test\HMS\HMS\Frameworks\Repository.Pattern\obj\x86\Debug\Repository.Pattern.dll
+C:\Users\MuhammadSaleem\Desktop\test\HMS\HMS\Frameworks\Repository.Pattern\obj\x86\Debug\Repository.Pattern.pdb
+C:\Users\MuhammadSaleem\Desktop\HMS\CloudEMR\Frameworks\Repository.Pattern\bin\x86\Debug\Repository.Pattern.dll.config
+C:\Users\MuhammadSaleem\Desktop\HMS\CloudEMR\Frameworks\Repository.Pattern\bin\x86\Debug\Repository.Pattern.dll
+C:\Users\MuhammadSaleem\Desktop\HMS\CloudEMR\Frameworks\Repository.Pattern\bin\x86\Debug\Repository.Pattern.pdb
+C:\Users\MuhammadSaleem\Desktop\HMS\CloudEMR\Frameworks\Repository.Pattern\obj\x86\Debug\Repository.Pattern.dll
+C:\Users\MuhammadSaleem\Desktop\HMS\CloudEMR\Frameworks\Repository.Pattern\obj\x86\Debug\Repository.Pattern.pdb
+C:\Users\MuhammadSaleem\Desktop\test\LatestHMS\HMS\CloudEMR\Frameworks\Repository.Pattern\bin\x86\Debug\Repository.Pattern.dll.config
+C:\Users\MuhammadSaleem\Desktop\test\LatestHMS\HMS\CloudEMR\Frameworks\Repository.Pattern\bin\x86\Debug\Repository.Pattern.dll
+C:\Users\MuhammadSaleem\Desktop\test\LatestHMS\HMS\CloudEMR\Frameworks\Repository.Pattern\bin\x86\Debug\Repository.Pattern.pdb
+C:\Users\MuhammadSaleem\Desktop\test\LatestHMS\HMS\CloudEMR\Frameworks\Repository.Pattern\obj\x86\Debug\Repository.Pattern.csproj.CoreCompileInputs.cache
+C:\Users\MuhammadSaleem\Desktop\test\LatestHMS\HMS\CloudEMR\Frameworks\Repository.Pattern\obj\x86\Debug\Repository.Pattern.dll
+C:\Users\MuhammadSaleem\Desktop\test\LatestHMS\HMS\CloudEMR\Frameworks\Repository.Pattern\obj\x86\Debug\Repository.Pattern.pdb
+C:\Users\MuhammadSaleem\Desktop\test\LatestHMS\HMS\CloudEMR\Frameworks\Repository.Pattern\obj\x86\Debug\Repository.Pattern.csprojAssemblyReference.cache
+C:\Users\MuhammadSaleem\Desktop\Saleem\LatestHMS\HMS\CloudEMR\Frameworks\Repository.Pattern\bin\x86\Debug\Repository.Pattern.dll.config
+C:\Users\MuhammadSaleem\Desktop\Saleem\LatestHMS\HMS\CloudEMR\Frameworks\Repository.Pattern\bin\x86\Debug\Repository.Pattern.dll
+C:\Users\MuhammadSaleem\Desktop\Saleem\LatestHMS\HMS\CloudEMR\Frameworks\Repository.Pattern\bin\x86\Debug\Repository.Pattern.pdb
+C:\Users\MuhammadSaleem\Desktop\Saleem\LatestHMS\HMS\CloudEMR\Frameworks\Repository.Pattern\obj\x86\Debug\Repository.Pattern.csproj.CoreCompileInputs.cache
+C:\Users\MuhammadSaleem\Desktop\Saleem\LatestHMS\HMS\CloudEMR\Frameworks\Repository.Pattern\obj\x86\Debug\Repository.Pattern.dll
+C:\Users\MuhammadSaleem\Desktop\Saleem\LatestHMS\HMS\CloudEMR\Frameworks\Repository.Pattern\obj\x86\Debug\Repository.Pattern.pdb
+C:\Users\MuhammadSaleem\Desktop\Saleem\LatestHMS\HMS\CloudEMR\Frameworks\Repository.Pattern\obj\x86\Debug\Repository.Pattern.csprojAssemblyReference.cache
+C:\Working Projects\CloudEMR\Frameworks\Repository.Pattern\bin\x86\Debug\Repository.Pattern.dll.config
+C:\Working Projects\CloudEMR\Frameworks\Repository.Pattern\bin\x86\Debug\Repository.Pattern.dll
+C:\Working Projects\CloudEMR\Frameworks\Repository.Pattern\bin\x86\Debug\Repository.Pattern.pdb
+C:\Working Projects\CloudEMR\Frameworks\Repository.Pattern\obj\x86\Debug\Repository.Pattern.dll
+C:\Working Projects\CloudEMR\Frameworks\Repository.Pattern\obj\x86\Debug\Repository.Pattern.pdb
+E:\CloudEMR\Frameworks\Repository.Pattern\bin\x86\Debug\Repository.Pattern.dll.config
+E:\CloudEMR\Frameworks\Repository.Pattern\bin\x86\Debug\Repository.Pattern.dll
+E:\CloudEMR\Frameworks\Repository.Pattern\bin\x86\Debug\Repository.Pattern.pdb
+E:\CloudEMR\Frameworks\Repository.Pattern\obj\x86\Debug\Repository.Pattern.csproj.CoreCompileInputs.cache
+E:\CloudEMR\Frameworks\Repository.Pattern\obj\x86\Debug\Repository.Pattern.dll
+E:\CloudEMR\Frameworks\Repository.Pattern\obj\x86\Debug\Repository.Pattern.pdb
+E:\CloudEMR\Frameworks\Repository.Pattern\obj\x86\Debug\Repository.Pattern.csproj.AssemblyReference.cache
