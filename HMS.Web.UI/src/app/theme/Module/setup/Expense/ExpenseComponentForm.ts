@@ -129,7 +129,6 @@ export class ExpenseComponentForm implements OnInit {
             var dob = new Date(this.model.Date);
         }
     }
-    
     onInvoiceDateChanged(event: IMyDateModel) {
         if (event) {
         }

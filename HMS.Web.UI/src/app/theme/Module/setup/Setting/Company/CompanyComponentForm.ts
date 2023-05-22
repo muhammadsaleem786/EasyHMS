@@ -80,6 +80,8 @@ export class CompanyComponentForm implements OnInit {
             ContactPersonFirstName: [''],
             ContactPersonLastName: [''],
             IsBackDatedAppointment: [''],
+            IsUpdateBillDate: [''],
+
             Email: ['', [Validators.pattern(ValidationVariables.EmailPattern)]],
             CompanyLogo: [''],
             DateFormatId: [''],
@@ -89,7 +91,7 @@ export class CompanyComponentForm implements OnInit {
         this.PayrollRegion = localStorage.getItem("PayrollRegion");
     }
     GetCompany() {
-        
+    
         this.loader.ShowLoader();
         var companyID = this.CompanyObj.CompanyID;
         this._CompanyService.GetById(parseInt(companyID)).then(m => {

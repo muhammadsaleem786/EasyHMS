@@ -68,7 +68,7 @@ namespace HMS.Entities.Models
         public string Email { get; set; }
         public bool IsTrialVersion { get; set; }
         public bool IsBackDatedAppointment { get; set; }
-
+        public Nullable<bool> IsUpdateBillDate { get; set; }
         public int DateFormatDropDownID { get; set; }
         public Nullable<int> DateFormatId { get; set; }
 

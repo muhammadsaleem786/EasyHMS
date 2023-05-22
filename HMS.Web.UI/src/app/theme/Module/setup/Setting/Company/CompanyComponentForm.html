@@ -106,15 +106,15 @@
                             </div>
                         </div>
                         <!--<div class="col-sm-4">
-        <div class="form-group">
-            <label>Language</label>
-            <select formControlName="LanguageID" [(ngModel)]="model.LanguageID" class="form-control">
-                <option *ngFor="let item of LanguageTypes" [value]="item.ID">
-                    {{item.Name}}
-                </option>
-            </select>
-        </div>
-    </div>-->
+                <div class="form-group">
+                    <label>Language</label>
+                    <select formControlName="LanguageID" [(ngModel)]="model.LanguageID" class="form-control">
+                        <option *ngFor="let item of LanguageTypes" [value]="item.ID">
+                            {{item.Name}}
+                        </option>
+                    </select>
+                </div>
+            </div>-->
 
                     </div>
                 </div>
@@ -141,6 +141,13 @@
                         <input type="checkbox" formControlName="IsBackDatedAppointment" [(ngModel)]="model.IsBackDatedAppointment" />
                     </div>
                 </div>
+                <div class="col-sm-4">
+                    <div class="form-group">
+                        <label>Can Update Bill Date?</label>
+                        <input type="checkbox" formControlName="IsUpdateBillDate" [(ngModel)]="model.IsUpdateBillDate" />
+                    </div>
+                </div>
+
                 <div class="col-sm-4">
                     <div class="form-group">
                         <label>CNIC Mandatory</label>

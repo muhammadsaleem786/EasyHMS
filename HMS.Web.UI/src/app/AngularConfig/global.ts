@@ -1,9 +1,9 @@
 ﻿import { AbstractControl } from '@angular/forms';
 export const GlobalVariable = {
-    BASE_Api_URL: "http://localhost:50000",
+    BASE_Api_URL: "https://localhost:44371",
     BASE_Web_URL: "http://localhost:4200",
-    BASE_File_URL: "http://localhost:50000/files/attachmentfiles/",
-    BASE_Temp_File_URL: "http://localhost:50000/files/temp/",
+    BASE_File_URL: "https://localhost:44371/files/attachmentfiles/",
+    BASE_Temp_File_URL: "https://localhost:44371/files/temp/",
     IsUseS3: "No",    // Yes or No for S3 Storage
     Release_Version: "6.0",
     AuthenticationToken: "",

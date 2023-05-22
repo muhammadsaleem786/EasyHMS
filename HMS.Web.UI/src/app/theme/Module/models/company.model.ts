@@ -23,6 +23,7 @@ export class Company {
     CompanyLogo: string;
     IsShowBillReceptionist: boolean = false;
     IsBackDatedAppointment: boolean = false;
+    IsUpdateBillDate: boolean = false;
     TotalEmployeeID: string;
     IsCNICMandatory: boolean = false;
     DateFormatId: number;

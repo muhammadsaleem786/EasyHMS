@@ -39,3 +39,9 @@ E:\Health\HMS\CloudEMR\Frameworks\Repository.Pattern\bin\Debug\Repository.Patter
 E:\Health\HMS\CloudEMR\Frameworks\Repository.Pattern\bin\Debug\Repository.Pattern.pdb
 E:\Health\HMS\CloudEMR\Frameworks\Repository.Pattern\obj\Debug\Repository.Pattern.dll
 E:\Health\HMS\CloudEMR\Frameworks\Repository.Pattern\obj\Debug\Repository.Pattern.pdb
+E:\EasyHMS\Frameworks\Repository.Pattern\bin\Debug\Repository.Pattern.dll.config
+E:\EasyHMS\Frameworks\Repository.Pattern\bin\Debug\Repository.Pattern.dll
+E:\EasyHMS\Frameworks\Repository.Pattern\bin\Debug\Repository.Pattern.pdb
+E:\EasyHMS\Frameworks\Repository.Pattern\obj\Debug\Repository.Pattern.csproj.CoreCompileInputs.cache
+E:\EasyHMS\Frameworks\Repository.Pattern\obj\Debug\Repository.Pattern.dll
+E:\EasyHMS\Frameworks\Repository.Pattern\obj\Debug\Repository.Pattern.pdb

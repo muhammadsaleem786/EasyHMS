@@ -41,7 +41,10 @@ export class IncomeComponentForm implements OnInit {
     public Rights: any;
     public ControlRights: any;
     public IsEdit: boolean = false;
-    constructor(public _CommonService: CommonService, private encrypt: EncryptionService,public _fb: FormBuilder, public loader: LoaderService
+    public AttachImage: string = '';
+    public IsNewImage: boolean = true;
+    public IsBackDate: any;
+    constructor(public _CommonService: CommonService, private encrypt: EncryptionService, public _fb: FormBuilder, public loader: LoaderService
         , public _IncomeService: IncomeService, public commonservice: CommonService
         , public toastr: CommonToastrService, public route: ActivatedRoute, public _router: Router) {
         this.PayrollRegion = "PK";//  this.commonservice.getPayrollRegion();
@@ -58,6 +61,7 @@ export class IncomeComponentForm implements OnInit {
             Remark: ['', [Validators.required]],
             DueAmount: ['', [Validators.required]],
             ReceivedAmount: [''],
+            Image: [''],
         });
         this.sub = this.route.queryParams
             .pipe(filter(params => params.id))
@@ -69,6 +73,12 @@ export class IncomeComponentForm implements OnInit {
                     this.loader.ShowLoader();
                     this._IncomeService.GetById(this.id).then(m => {
                         this.model = m.ResultSet;
+                        if (m.ResultSet.adm_company != null)
+                            this.IsBackDate = m.ResultSet.adm_company.IsUpdateBillDate
+                        if (this.model.Image != null && this.model.Image != undefined && this.model.Image != "") {
+                            this.getImageUrlName(this.model.Image);
+                            this.IsNewImage = false;
+                        } else this.IsNewImage = true;
                     });
                 } else {
                     this.model.Date = new Date();
@@ -130,4 +140,24 @@ export class IncomeComponentForm implements OnInit {
         this.IsAdmin = false;
         this.IsUpdateText = false;
     }
+    IsNewImageEvent(FName) {
+        this.IsNewImage = true;
+    }
+    getFileName(FName) {
+        this.model.Image = FName;
+    }
+    ClearImageUrl() {
+        this.IsNewImage = true;
+        this.model.Image = '';
+        this.AttachImage = '';
+    }
+    getImageUrlName(FName) {
+        this.model.Image = FName;
+        if (this.IsEdit && !this.IsNewImage) {
+            this.AttachImage = GlobalVariable.BASE_Temp_File_URL + '' + FName;
+        } else {
+            this.AttachImage = GlobalVariable.BASE_Temp_File_URL + '' + FName;
+        }
+    }
+
 }

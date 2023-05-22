@@ -54,10 +54,22 @@
                                 <img src="../assets/app/media/img/icons/newPatient.png" class="img-fluid radius">
 
                             </div>
-                            <div class="col text-right">
+                            <!--<div class="col text-right">
                                 <h2 class="card-title text-uppercase  mb-0">  {{d.NewPatients}}</h2>
                                 <span class="text-sm mb-0"> New Patients</span>
-                            </div>
+                            </div>-->
+
+                        <div class="col text-right">
+                            <h2 class="card-title text-uppercase  mb-0"> Appointment</h2>
+                            <span class="text-sm mb-0"> {{d.TotalAppointments}}</span>
+                            <h2 class="card-title text-uppercase  mb-0"> New</h2>
+                            <span class="text-sm mb-0"> {{d.NewPatients}}</span>
+                            <h2 class="card-title text-uppercase  mb-0"> Missed</h2>
+                            <span class="text-sm mb-0"> {{d.MissedAppointments}}</span>
+                            <h2 class="card-title text-uppercase  mb-0"> Visit</h2>
+                            <span class="text-sm mb-0"> {{d.PatientVisits}}</span>
+                        </div>                          
+
                         </div>
                     </div>
                 </div>
@@ -74,8 +86,10 @@
 
                             </div>
                             <div class="col text-right">
-                                <h2 class="card-title text-uppercase  mb-0"> {{d.PatientVisits}}</h2>
-                                <span class="text-sm mb-0"> Patient Visits</span>
+                                <h2 class="card-title text-uppercase  mb-0"> {{d.PaymentCollection}}</h2>
+                                <span class="text-sm mb-0"> OPD Income</span>
+                                <h2 class="card-title text-uppercase  mb-0"> {{d.ProfessionalFees}}</h2>
+                                <span class="text-sm mb-0"> Professional Fees</span>
                             </div>
                         </div>
                     </div>
@@ -92,8 +106,8 @@
 
                             </div>
                             <div class="col text-right">
-                                <h2 class="card-title text-uppercase  mb-0">  {{d.TotalAppointments}}</h2>
-                                <span class="text-sm mb-0">   Appointment</span>
+                                <h2 class="card-title text-uppercase  mb-0">  {{d.IPDIncome}}</h2>
+                                <span class="text-sm mb-0">   IPD Income</span>
                             </div>
                         </div>
                     </div>
@@ -109,8 +123,8 @@
 
                             </div>
                             <div class="col text-right">
-                                <h2 class="card-title text-uppercase  mb-0">  {{d.MissedAppointments}}</h2>
-                                <span class="text-sm mb-0">  Missed Appointment</span>
+                                <h2 class="card-title text-uppercase  mb-0">  {{d.PharmacyIncome}}</h2>
+                                <span class="text-sm mb-0">  Pharmacy Income</span>
                             </div>
                         </div>
                     </div>
@@ -128,8 +142,8 @@
 
                             </div>
                             <div class="col text-right">
-                                <h2 class="card-title text-uppercase  mb-0">  {{d.ProfessionalFees}}</h2>
-                                <span class="text-sm mb-0"> Professional Fees </span>
+                                <h2 class="card-title text-uppercase  mb-0">  {{d.PathologyIncome}}</h2>
+                                <span class="text-sm mb-0"> Pathology Income </span>
                             </div>
                         </div>
                     </div>
@@ -147,26 +161,8 @@
 
                             </div>
                             <div class="col text-right">
-                                <h2 class="card-title text-uppercase  mb-0">   {{d.PaymentCollection}}</h2>
-                                <span class="text-sm mb-0"> Payment Collection </span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-            <div class="col-sm-3">
-                <div class="card card-stats mb-4 mb-xl-0">
-                    <div class="card-body">
-                        <div class="row">
-                            <div class="col-sm-4">
-                                <img src="../assets/app/media/img/icons/7.png" class="img-fluid radius">
-
-                            </div>
-                            <div class="col text-right">
-                                <h2 class="card-title text-uppercase  mb-0">   {{d.OutstandingAmount}}</h2>
-                                <span class="text-sm mb-0">  Outstanding Amount</span>
+                                <h2 class="card-title text-uppercase  mb-0">   {{d.GeneralIncome}}</h2>
+                                <span class="text-sm mb-0"> General Income </span>
                             </div>
                         </div>
                     </div>
@@ -190,6 +186,24 @@
                 </div>
 
             </div>
+            <div class="col-sm-3">
+                <div class="card card-stats mb-4 mb-xl-0">
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-sm-4">
+                                <img src="../assets/app/media/img/icons/7.png" class="img-fluid radius">
+
+                            </div>
+                            <div class="col text-right">
+                                <h2 class="card-title text-uppercase  mb-0">   {{d.OutstandingAmount}}</h2>
+                                <span class="text-sm mb-0">  Outstanding Amount</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
         </div>
     </div>
     <!-- =========== -->

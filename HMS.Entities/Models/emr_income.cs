@@ -20,6 +20,8 @@ namespace HMS.Entities.Models
         public decimal CreatedBy { get; set; }
         public System.DateTime CreatedDate { get; set; }
         public Nullable<decimal> ModifiedBy { get; set; }
+        public string Image { get; set; }
+
         public Nullable<System.DateTime> ModifiedDate { get; set; }
         public virtual adm_company adm_company { get; set; }
         public virtual adm_user_mf adm_user_mf { get; set; }

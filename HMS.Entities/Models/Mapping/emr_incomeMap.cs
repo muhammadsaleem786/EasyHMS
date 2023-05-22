@@ -40,6 +40,7 @@ namespace HMS.Entities.Models.Mapping
             this.Property(t => t.CreatedDate).HasColumnName("CreatedDate");
             this.Property(t => t.ModifiedBy).HasColumnName("ModifiedBy");
             this.Property(t => t.ModifiedDate).HasColumnName("ModifiedDate");
+            this.Property(t => t.Image).HasColumnName("Image");
 
             // Relationships
             this.HasRequired(t => t.adm_company)
