@@ -62,8 +62,10 @@ namespace HMS.Entities.Models
         
         public DbSet<user_payment> user_payment { get; set; }
         public DbSet<ipd_admission_discharge> ipd_admission_discharge { get; set; }
+        //employee
 
-        
+        public DbSet<pr_employee_mf> pr_employee_mf { get; set; }
+
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder.Configurations.Add(new contactMap());

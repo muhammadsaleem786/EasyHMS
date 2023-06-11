@@ -5,7 +5,6 @@ using HMS.Service.Services.Appointment;
 using HMS.Web.API.Common;
 using HMS.Web.API.Filters;
 using HMS.Web.API.Interface;
-using iTextSharp.text;
 using Repository.Pattern.Infrastructure;
 using Repository.Pattern.UnitOfWork;
 using System;

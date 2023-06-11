@@ -94,6 +94,37 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-md-4 col-sm-6 margin-t-20" *ngIf="Modules.indexOf(1)>-1">
+                    <div class="col-md-12 no-padding-lr">
+                        <div class="col-md-12 margin-b-20">
+                            <div class="headTittle">
+                                <span class="Blockicon">
+                                    <img src="../assets/app/media/img/icons/setting3.png" class="img-fluid radius">
+                                </span><span class="left-margin blue-text">Employee</span>
+                            </div>
+                            <ul class="list-group">
+                                <li class="list-group-item" *ngIf="Rights.indexOf(3)>-1">
+                                    <a routerLink="/home/Employee" class="left-margin link-color">Employee</a>
+                                </li>
+                                <!--<li class="list-group-item" *ngIf="Rights.indexOf(2)>-1">
+                                    <a routerLink="/home/Allowance" class="left-margin link-color">Allowance</a>
+                                </li>-->
+                                <li class="list-group-item" *ngIf="Rights.indexOf(2)>-1">
+                                    <a routerLink="/home/Leaveentry" class="left-margin link-color">Leave</a>
+                                </li>
+                                <!--<li class="list-group-item" *ngIf="Rights.indexOf(2)>-1">
+                                    <a routerLink="/home/Payroll" class="left-margin link-color">Payroll</a>
+                                </li>-->
+                                <!--<li class="list-group-item" *ngIf="Rights.indexOf(2)>-1">
+                                    <a routerLink="/home/Attendance" class="left-margin link-color">Attendance</a>
+                                </li>
+                                <li class="list-group-item" *ngIf="Rights.indexOf(2)>-1">
+                                    <a routerLink="/home/Timeattendancelist" class="left-margin link-color">Timeattendancelist</a>
+                                </li>-->                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
 

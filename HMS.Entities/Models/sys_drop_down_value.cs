@@ -28,10 +28,31 @@ namespace HMS.Entities.Models
             this.ipd_admission_lab = new List<ipd_admission_lab>();
             this.ipd_admission_lab1 = new List<ipd_admission_lab>();
             this.ipd_admission_lab2 = new List<ipd_admission_lab>();
-
+            
             this.ipd_admission1 = new List<ipd_admission>();
             this.ipd_admission2 = new List<ipd_admission>();
             this.ipd_admission3 = new List<ipd_admission>();
+
+            this.pr_time_entry = new List<pr_time_entry>();
+            //this.pr_allowance = new List<pr_allowance>();
+            this.pr_employee_mf = new List<pr_employee_mf>();
+            //this.pr_employee_mf1 = new List<pr_employee_mf>();
+            //this.pr_employee_mf2 = new List<pr_employee_mf>();
+            //this.pr_employee_mf3 = new List<pr_employee_mf>();
+            //this.pr_employee_mf4 = new List<pr_employee_mf>();
+            //this.pr_employee_mf5 = new List<pr_employee_mf>();
+            //this.pr_employee_mf6 = new List<pr_employee_mf>();
+            //this.pr_employee_mf7 = new List<pr_employee_mf>();
+            //this.pr_employee_mf8 = new List<pr_employee_mf>();
+            //this.pr_employee_mf9 = new List<pr_employee_mf>();
+            //this.pr_employee_mf10 = new List<pr_employee_mf>();
+            //this.pr_employee_mf11 = new List<pr_employee_mf>();
+            //this.pr_employee_mf12 = new List<pr_employee_mf>();
+            //this.pr_employee_mf13 = new List<pr_employee_mf>();
+            this.pr_leave_type = new List<pr_leave_type>();
+            //this.pr_pay_schedule = new List<pr_pay_schedule>();
+            //this.pr_pay_schedule1 = new List<pr_pay_schedule>();
+            this.pr_time_entry = new List<pr_time_entry>();
         }
         public int ID { get; set; }
         public int DropDownID { get; set; }
@@ -56,6 +77,7 @@ namespace HMS.Entities.Models
         public virtual ICollection<emr_income> emr_income { get; set; }
         public virtual ICollection<emr_vital> emr_vital { get; set; }
         public virtual ICollection<ipd_admission> ipd_admission { get; set; }
+        
 
         public virtual ICollection<ipd_admission> ipd_admission1 { get; set; }
         public virtual ICollection<ipd_admission> ipd_admission2 { get; set; }
@@ -67,5 +89,30 @@ namespace HMS.Entities.Models
         public virtual ICollection<ipd_admission_lab> ipd_admission_lab1 { get; set; }
         public virtual ICollection<ipd_admission_lab> ipd_admission_lab2 { get; set; }
         public virtual ICollection<ipd_procedure_mf> ipd_procedure_mf { get; set; }
+
+        //public virtual ICollection<pr_allowance> pr_allowance { get; set; }
+        public virtual ICollection<pr_employee_mf> pr_employee_mf { get; set; }
+        //public virtual ICollection<pr_employee_mf> pr_employee_mf1 { get; set; }
+        //public virtual ICollection<pr_employee_mf> pr_employee_mf2 { get; set; }
+        //public virtual ICollection<pr_employee_mf> pr_employee_mf3 { get; set; }
+        //public virtual ICollection<pr_employee_mf> pr_employee_mf4 { get; set; }
+        //public virtual ICollection<pr_employee_mf> pr_employee_mf5 { get; set; }
+        //public virtual ICollection<pr_employee_mf> pr_employee_mf6 { get; set; }
+        //public virtual ICollection<pr_employee_mf> pr_employee_mf7 { get; set; }
+        //public virtual ICollection<pr_employee_mf> pr_employee_mf8 { get; set; }
+        //public virtual ICollection<pr_employee_mf> pr_employee_mf9 { get; set; }
+        //public virtual ICollection<pr_employee_mf> pr_employee_mf10 { get; set; }
+        //public virtual ICollection<pr_employee_mf> pr_employee_mf11 { get; set; }
+        //public virtual ICollection<pr_employee_mf> pr_employee_mf12 { get; set; }
+        //public virtual ICollection<pr_employee_mf> pr_employee_mf13 { get; set; }
+        //public virtual ICollection<pr_employee_mf> pr_employee_mf14 { get; set; }
+        //public virtual ICollection<pr_employee_mf> pr_employee_mf15 { get; set; }
+        //public virtual ICollection<pr_employee_mf> pr_employee_mf16 { get; set; }
+        //public virtual ICollection<pr_employee_mf> pr_employee_mf17 { get; set; }
+        public virtual ICollection<pr_leave_type> pr_leave_type { get; set; }
+        //public virtual ICollection<pr_pay_schedule> pr_pay_schedule { get; set; }
+        //public virtual ICollection<pr_pay_schedule> pr_pay_schedule1 { get; set; }
+        public virtual ICollection<pr_loan> pr_loan { get; set; }
+        public virtual ICollection<pr_time_entry> pr_time_entry { get; set; }
     }
 }

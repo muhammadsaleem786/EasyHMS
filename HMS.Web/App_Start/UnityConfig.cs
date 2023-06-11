@@ -9,6 +9,7 @@ using HMS.Service.Services.Admin;
 using HMS.Service;
 using HMS.Service.Services.Appointment;
 using HMS.Service.Services.Admission;
+using HMS.Service.Services.Employee;
 
 namespace HMS.Web.API
 {
@@ -94,6 +95,24 @@ namespace HMS.Web.API
                   .RegisterType<IRepositoryAsync<user_payment>, Repository<user_payment>>()
                   .RegisterType<IRepositoryAsync<ipd_admission_discharge>, Repository<ipd_admission_discharge>>()
                   .RegisterType<IRepositoryAsync<contact>, Repository<contact>>()
+                   //employee
+                   .RegisterType<IRepositoryAsync<pr_employee_mf>, Repository<pr_employee_mf>>()
+                   .RegisterType<IRepositoryAsync<pr_pay_schedule>, Repository<pr_pay_schedule>>()
+                .RegisterType<IRepositoryAsync<pr_department>, Repository<pr_department>>()
+                .RegisterType<IRepositoryAsync<pr_designation>, Repository<pr_designation>>()
+                .RegisterType<IRepositoryAsync<pr_leave_type>, Repository<pr_leave_type>>()
+                .RegisterType<IRepositoryAsync<pr_deduction_contribution>, Repository<pr_deduction_contribution>>()
+                .RegisterType<IRepositoryAsync<pr_allowance>, Repository<pr_allowance>>()
+                .RegisterType<IRepositoryAsync<pr_leave_application>, Repository<pr_leave_application>>()
+                 .RegisterType<IRepositoryAsync<pr_employee_allowance>, Repository<pr_employee_allowance>>()
+                .RegisterType<IRepositoryAsync<pr_employee_ded_contribution>, Repository<pr_employee_ded_contribution>>()
+                .RegisterType<IRepositoryAsync<pr_employee_leave>, Repository<pr_employee_leave>>()
+                .RegisterType<IRepositoryAsync<pr_employee_payroll_mf>, Repository<pr_employee_payroll_mf>>()
+                .RegisterType<IRepositoryAsync<pr_employee_payroll_dt>, Repository<pr_employee_payroll_dt>>()
+                .RegisterType<IRepositoryAsync<pr_loan>, Repository<pr_loan>>()
+                .RegisterType<IRepositoryAsync<pr_loan_payment_dt>, Repository<pr_loan_payment_dt>>()
+                .RegisterType<IRepositoryAsync<pr_time_entry>, Repository<pr_time_entry>>()
+
                         // Add services  
                         .RegisterType<IcontactService, contactService>()
                         .RegisterType<Iipd_admission_dischargeService, ipd_admission_dischargeService>()
@@ -142,8 +161,27 @@ namespace HMS.Web.API
                  .RegisterType<Iadm_role_mfService, adm_role_mfService>()
                 .RegisterType<Iadm_role_dtService, adm_role_dtService>()
                 .RegisterType<Iadm_user_companyService, adm_user_companyService>()
+                 //employee
+                 .RegisterType<Ipr_employee_mfService, pr_employee_mfService>()
+                  .RegisterType<Ipr_pay_scheduleService, pr_pay_scheduleService>()
+                .RegisterType<Ipr_departmentService, pr_departmentService>()
+                .RegisterType<Ipr_designationService, pr_designationService>()
+                .RegisterType<Ipr_leave_typeService, pr_leave_typeService>()
+                .RegisterType<Ipr_allowanceService, pr_allowanceService>()
+                .RegisterType<Ipr_deduction_contributionService, pr_deduction_contributionService>()
+                .RegisterType<Ipr_leave_applicationService, pr_leave_applicationService>()
+                .RegisterType<Ipr_employee_allowanceService, pr_employee_allowanceService>()
+                .RegisterType<Ipr_employee_ded_contributionService, pr_employee_ded_contributionService>()
+                .RegisterType<Ipr_employee_leaveService, pr_employee_leaveService>()
+                .RegisterType<Ipr_employee_payroll_mfService, pr_employee_payroll_mfService>()
+                .RegisterType<Ipr_employee_payroll_dtService, pr_employee_payroll_dtService>()
+                 .RegisterType<Ipr_loanService, pr_loanService>()
+                .RegisterType<Ipr_loan_payment_dtService, pr_loan_payment_dtService>()
+                .RegisterType<Ipr_time_entryService, pr_time_entryService>()
+
                 .RegisterType<IERPStoredProcedures, HMSContext>(new PerRequestLifetimeManager())
                 .RegisterType<IStoredProcedureService, StoredProcedureService>();
+           
         }
     }
 }

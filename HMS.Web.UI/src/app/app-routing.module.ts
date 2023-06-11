@@ -20,6 +20,7 @@ const routes: Routes = [
     { path: 'home', loadChildren: './theme/Module/setup/Admission/admission.module#AdmissionModule' },
     { path: 'home', loadChildren: './theme/Module/HTMLReports/report.module#ReportModule' },
     { path: 'home', loadChildren: './theme/Module/setup/Setting/setting.module#SettingModule' },
+    { path: 'home', loadChildren: './theme/Module/setup/Employee/employee.module#EmployeeModule' },
     { path: 'home', loadChildren: './theme/Module/setup/Appointment/appointment.module#AppointmentModule' },
     { path: 'home', loadChildren: './theme/Module/setup/Admin/admin.module#AdminModule' },
     {

@@ -28,6 +28,13 @@ export class Company {
     IsCNICMandatory: boolean = false;
     DateFormatId: number;
     ReceiptFooter: string;
+    WDMonday: boolean;
+    WDTuesday: boolean;
+    WDWednesday: boolean;
+    WDThursday: boolean;
+    WDFriday: boolean;
+    WDSatuday: boolean;
+    WDSunday: boolean;
     adm_company_location: Array<AdmCompanyLocation> = [];
 }
 export class AdmCompanyLocation {

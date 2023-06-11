@@ -112,6 +112,22 @@
     <Compile Include="Services\Appointment\emr_appointment_mfService.cs" />
     <Compile Include="Services\Appointment\emr_documentService.cs" />
     <Compile Include="Services\Appointment\emr_patientService.cs" />
+    <Compile Include="Services\Employee\pr_allowanceService.cs" />
+    <Compile Include="Services\Employee\pr_deduction_contributionService.cs" />
+    <Compile Include="Services\Employee\pr_departmentService.cs" />
+    <Compile Include="Services\Employee\pr_designationService.cs" />
+    <Compile Include="Services\Employee\pr_employee_allowanceService.cs" />
+    <Compile Include="Services\Employee\pr_employee_ded_contributionService.cs" />
+    <Compile Include="Services\Employee\pr_employee_leaveService.cs" />
+    <Compile Include="Services\Employee\pr_employee_mfService.cs" />
+    <Compile Include="Services\Employee\pr_employee_payroll_dtService.cs" />
+    <Compile Include="Services\Employee\pr_employee_payroll_mfService.cs" />
+    <Compile Include="Services\Employee\pr_leave_applicationService.cs" />
+    <Compile Include="Services\Employee\pr_leave_typeService.cs" />
+    <Compile Include="Services\Employee\pr_loanService.cs" />
+    <Compile Include="Services\Employee\pr_loan_payment_dtService.cs" />
+    <Compile Include="Services\Employee\pr_pay_scheduleService.cs" />
+    <Compile Include="Services\Employee\pr_time_entryService.cs" />
     <Compile Include="StoredProcedureService.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -10,5 +10,7 @@ namespace HMS.Service
     {
         IEnumerable<ScreenModel> GetAllScreen();
         IEnumerable<TemplateModel> GetAlLTemplate(decimal CompanyID);
+        int SP_PR_CalculateSalary(decimal CompanyID, decimal PayScheduleID, string EmployeeIds, double LoginID);
+        IEnumerable<decimal> SP_GetOpenPayrollPayScheduleIds(decimal CompanyID);
     }
 }

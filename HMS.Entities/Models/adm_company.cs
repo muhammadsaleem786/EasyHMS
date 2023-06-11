@@ -42,6 +42,17 @@ namespace HMS.Entities.Models
             this.user_payment = new List<user_payment>();
             this.ipd_admission_discharge = new List<ipd_admission_discharge>();
 
+            //this.pr_allowance = new List<pr_allowance>();
+            this.pr_deduction_contribution = new List<pr_deduction_contribution>();
+            this.pr_department = new List<pr_department>();
+            this.pr_designation = new List<pr_designation>();
+            this.pr_employee_mf = new List<pr_employee_mf>();
+            this.pr_employee_payroll_mf = new List<pr_employee_payroll_mf>();
+            this.pr_leave_application = new List<pr_leave_application>();
+            this.pr_leave_type = new List<pr_leave_type>();
+            this.pr_loan = new List<pr_loan>();
+            //this.pr_pay_schedule = new List<pr_pay_schedule>();
+            this.pr_loan_payment_dt = new List<pr_loan_payment_dt>();
         }
 
         public decimal ID { get; set; }
@@ -71,7 +82,13 @@ namespace HMS.Entities.Models
         public Nullable<bool> IsUpdateBillDate { get; set; }
         public int DateFormatDropDownID { get; set; }
         public Nullable<int> DateFormatId { get; set; }
-
+        public bool WDMonday { get; set; }
+        public bool WDTuesday { get; set; }
+        public bool WDWednesday { get; set; }
+        public bool WDThursday { get; set; }
+        public bool WDFriday { get; set; }
+        public bool WDSatuday { get; set; }
+        public bool WDSunday { get; set; }
         public decimal CreatedBy { get; set; }
         public System.DateTime CreatedDate { get; set; }
         public Nullable<decimal> ModifiedBy { get; set; }
@@ -116,6 +133,18 @@ namespace HMS.Entities.Models
         public virtual ICollection<user_payment> user_payment { get; set; }
         public virtual ICollection<ipd_admission_discharge> ipd_admission_discharge { get; set; }
 
+
+        //public virtual ICollection<pr_allowance> pr_allowance { get; set; }
+        public virtual ICollection<pr_deduction_contribution> pr_deduction_contribution { get; set; }
+        public virtual ICollection<pr_department> pr_department { get; set; }
+        public virtual ICollection<pr_designation> pr_designation { get; set; }
+        public virtual ICollection<pr_employee_mf> pr_employee_mf { get; set; }
+        public virtual ICollection<pr_employee_payroll_mf> pr_employee_payroll_mf { get; set; }
+        public virtual ICollection<pr_leave_application> pr_leave_application { get; set; }
+        public virtual ICollection<pr_leave_type> pr_leave_type { get; set; }
+        public virtual ICollection<pr_loan> pr_loan { get; set; }
+        //public virtual ICollection<pr_pay_schedule> pr_pay_schedule { get; set; }
+        public virtual ICollection<pr_loan_payment_dt> pr_loan_payment_dt { get; set; }
 
     }
 }

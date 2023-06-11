@@ -114,6 +114,22 @@
     <Compile Include="Repositories\Appointment\emr_appointment_mfRepository.cs" />
     <Compile Include="Repositories\Appointment\emr_documentRepository.cs" />
     <Compile Include="Repositories\Appointment\emr_patientRepository.cs" />
+    <Compile Include="Repositories\Employee\pr_allowanceRepository.cs" />
+    <Compile Include="Repositories\Employee\pr_deduction_contributionRepository.cs" />
+    <Compile Include="Repositories\Employee\pr_departmentRepository.cs" />
+    <Compile Include="Repositories\Employee\pr_designationRepository.cs" />
+    <Compile Include="Repositories\Employee\pr_employee_allowanceRepository.cs" />
+    <Compile Include="Repositories\Employee\pr_employee_ded_contributionRepository.cs" />
+    <Compile Include="Repositories\Employee\pr_employee_leaveRepository.cs" />
+    <Compile Include="Repositories\Employee\pr_employee_mfRepository.cs" />
+    <Compile Include="Repositories\Employee\pr_employee_payroll_dtRepository.cs" />
+    <Compile Include="Repositories\Employee\pr_employee_payroll_mfRepository.cs" />
+    <Compile Include="Repositories\Employee\pr_leave_applicationReporsitory.cs" />
+    <Compile Include="Repositories\Employee\pr_leave_typeRepository.cs" />
+    <Compile Include="Repositories\Employee\pr_loanRepository.cs" />
+    <Compile Include="Repositories\Employee\pr_loan_payment_dtRepository.cs" />
+    <Compile Include="Repositories\Employee\pr_pay_scheduleRepository.cs" />
+    <Compile Include="Repositories\Employee\pr_time_entryRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Frameworks\Repository.Pattern.Ef6\Repository.Pattern.Ef6.csproj">
